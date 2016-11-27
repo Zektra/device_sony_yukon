@@ -7,8 +7,9 @@ Yukon devices:
 
     Xperia E3..................Flamingo
     Xperia M2..................Eagle
-    Xperia T2 Ultra         ...Tianchi
-    Xperia T3        ..........Seagull
+    Xperia T2 Ultra............Tianchi
+    Xperia C3..................Wukong
+    Xperia T3..................Seagull
 
 Build instructions
 http://developer.sonymobile.com/knowledge-base/open-source/open-devices/aosp-build-instructions/
